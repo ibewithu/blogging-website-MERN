@@ -1,0 +1,7 @@
+node_modules
+.env
+.vscode
+functions
+.firebaserc
+.firebse-deploy.json
+firebase.json
